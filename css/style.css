@@ -426,6 +426,7 @@ background: #c6c6c580;
 	border: 1px solid white;
 	color: white;
 	border-radius: 1px;
+	padding: 0 58px;
 }
 .sms-2 .texta:focus{
 	outline: none;
